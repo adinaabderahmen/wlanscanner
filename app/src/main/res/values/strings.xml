@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WLAN Scanner</string>
+    <string name="scan_button">مسح الشبكات</string>
+    <string name="info_text">اضغط مسح ثم فعّل الموقع إن طُلِب.</string>
+    <string name="no_networks">لم تُعثر على شبكات</string>
+    <string name="scan_failed">فشل بدء المسح. حاول مرة أخرى.</string>
+    <string name="scanning">جاري المسح...</string>
+    <string name="location_needed">مطلوب إذن الموقع</string>
+    <string name="enable_location">فعّل الموقع</string>
+    <string name="location_message">يجب تفعيل Location لقراءة الشبكات. افتح إعدادات الموقع الآن؟</string>
+    <string name="copied">تم النسخ: %s</string>
+</resources>
